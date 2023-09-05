@@ -1,5 +1,6 @@
-# Trabajo Practico Final para la materia Algoritmos y Programacion II - Catedra Juarez
-Facultad de Ingenieria de la Universidad de Buenos Aires
+# Trabajo Practico Final para la materia Algoritmos y Programacion II - Catedra Juarez.
+Facultad de Ingenieria de la Universidad de Buenos Aires.
+Paradigma de la Programacion Orientada a Objetos.
 
 Integrantes:
 - Martina Rey
