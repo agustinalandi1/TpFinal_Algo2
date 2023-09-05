@@ -2,6 +2,7 @@
 Facultad de Ingenieria de la Universidad de Buenos Aires. <br>
 
 Trabajo realizado mediante el paradigma de la Programacion Orientada a Objetos. <br>
+Primer cuatrimestre del año 2022.<br>
 
 Integrantes:
 - Martina Rey
