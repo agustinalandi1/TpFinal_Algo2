@@ -1,8 +1,7 @@
 # Trabajo Practico Final para la materia Algoritmos y Programacion II - Catedra Juarez.
-Facultad de Ingenieria de la Universidad de Buenos Aires. <br>
+Facultad de Ingenieria de la Universidad de Buenos Aires. Segundo cuatrimestre del año 2022.<br>
 
 Trabajo realizado mediante el paradigma de la Programacion Orientada a Objetos. <br>
-Primer cuatrimestre del año 2022.<br>
 
 Integrantes:
 - Martina Rey
