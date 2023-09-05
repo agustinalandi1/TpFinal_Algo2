@@ -7,4 +7,4 @@ Integrantes:
 - Juan Manuel Pascual Osorio
 - Agustina Landi
 
-[Enunciado](file:///C:/Users/USER/Downloads/El%20rescate%20perfecto%20(1)%20(1).pdf)
+[Enunciado]: file:///C:/Users/USER/Downloads/El%20rescate%20perfecto%20(1)%20(1).pdf
